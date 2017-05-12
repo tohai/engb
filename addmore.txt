@@ -1,1 +1,2 @@
 commit a
+squash message
