@@ -1,2 +1,4 @@
 commit 2
 squash message
+
+commit 3
