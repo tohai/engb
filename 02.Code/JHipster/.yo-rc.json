@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "dungnn.study.jhipster",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "microservice",
+    "baseName": "JHipster",
+    "packageName": "dungnn.study.jhipster",
+    "packageFolder": "dungnn/study/jhipster",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": "kafka",
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "MGExZTFiYzgzNjczOGJkNDA2YWJhMjA5OTg3ZmZkZDNiZTI4ZTlmMDFiMWIwZmZkOTViN2YwMGYwZDYwMjdlOWQxN2U1NDkzYmZhMDlmODc5YzRlODcwYjU0ZWE5ZTUxNGU0NGI4NzgwMTA3YTQzOWYyMWRjNWRiOTYzYjFmMWM=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1608782554872,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "en",
+    "languages": ["en", "vi"],
+    "blueprints": [],
+    "reactive": true,
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
